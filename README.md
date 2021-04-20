@@ -30,20 +30,20 @@ You only need to briefly understand how the syntax in pre-ES6 looks like. This l
 ## Test Your Understanding
 
 Which of the following is wrong about defining a class?
-A. In ES6, a class is defined by the `class` keyword.
-B. In ES6, `new` keyword is used to create an object.
-C. The keyword `this` references the current instance.
-D. In ES6, a class is defined by the `extend` keyword.
+- A. In ES6, a class is defined by the `class` keyword.
+- B. In ES6, `new` keyword is used to create an object.
+- C. The keyword `this` references the current instance.
+- D. In ES6, a class is defined by the `extend` keyword.
 
 ```
 Enter your answer here
 ```
 
 Which of the following does not create an instance of object?
-A. `const user = {}`
-B. `function User(){}`
-C. `const user = new User()`
-D. `const me = Object.create(user)`
+- A. `const user = {}`
+- B. `function User(){}`
+- C. `const user = new User()`
+- D. `const me = Object.create(user)`
 ```
 Enter your answer here
 ```
