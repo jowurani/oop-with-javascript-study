@@ -1,5 +1,10 @@
 # Self Study
 
+1. Fork this repository
+2. Go through the study materaial
+3. Answer the questions in the last section
+4. Commit and push your answers to remote repository
+
 ## What are classes and objects?
 
 We can look at `class` as a blueprint. An object is an instance of a class. If class is a blueprint, an instance of object is the actualization of that blueprint.
@@ -21,3 +26,24 @@ In our lesson, we will be using ES6 approach.
 - Constructor Function: https://youtu.be/23AOrSN-wmI
 
 You only need to briefly understand how the syntax in pre-ES6 looks like. This lesson aims to help you gain clarity on the ES6 approach. Once you have a good understanding, it is easy to transfer those knowledge to understand these. 
+
+## Test Your Understanding
+
+Which of the following is wrong about defining a class?
+A. In ES6, a class is defined by the `class` keyword.
+B. In ES6, `new` keyword is used to create an object.
+C. The keyword `this` references the current instance.
+D. In ES6, a class is defined by the `extend` keyword.
+
+```
+Enter your answer here
+```
+
+Which of the following does not create an instance of object?
+A. `const user = {}`
+B. `function User(){}`
+C. `const user = new User()`
+D. `const me = Object.create(user)`
+```
+Enter your answer here
+```
