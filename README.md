@@ -1,49 +1,21 @@
-# Self Study
+[<img src="assets/images/su-logo.png" alt="Skills Union Logo" height="80px" />](https://www.skillsunion.com/)
 
-1. Fork this repository
-2. Go through the study materaial
-3. Answer the questions in the last section
-4. Commit and push your answers to remote repository
+# OOP with JavaScript: Study
 
-## What are classes and objects?
+## Learning Objectives:
+By the end of this, you should know:
+- What a class is and how to define it using ES6 syntax.
+- The conceptual difference between a class and an instance.
 
-We can look at `class` as a blueprint. An object is an instance of a class. If class is a blueprint, an instance of object is the actualization of that blueprint.
+By the end of this, you should be able to:
+- Recognize the three ways to create an object before ES6
+- Define a class and instantiate it with these keywords: `class`, `new`,and `this`.
 
-Let's take the construction of buildings for an example. Before one literally construct a building, a team of architects have to design the blueprint with all safety measures, state compliances and living spaces. Once a blueprint is completed, the construction team would be able to construct multiple buildings based on the blueprint. Notice that although one blueprint is produced, multiple actualization of that blueprint can be created. 
+## Instructions
 
-
-## Classes & Objects in [ECMAScript](https://en.wikipedia.org/wiki/ECMAScript) 6 (ES6)
-
-ES6 `class` syntax: https://youtu.be/RBLIm5LMrmc
-
-In our lesson, we will be using ES6 approach.
-
-
-## Three ways to create an object before ES6
-
-- Object Literal: https://youtu.be/7d9H34ZVRPg
-- Factory Function: https://youtu.be/jpegXpQpb3o
-- Constructor Function: https://youtu.be/23AOrSN-wmI
-
-You only need to briefly understand how the syntax in pre-ES6 looks like. This lesson aims to help you gain clarity on the ES6 approach. Once you have a good understanding, it is easy to transfer those knowledge to understand these. 
-
-## Test Your Understanding
-
-Which of the following is wrong about defining a class?
-- A. In ES6, a class is defined by the `class` keyword.
-- B. In ES6, `new` keyword is used to create an object.
-- C. The keyword `this` references the current instance.
-- D. In ES6, a class is defined by the `extend` keyword.
-
-```
-Enter your answer here
-```
-
-Which of the following does not create an instance of object?
-- A. `const user = {}`
-- B. `function User(){}`
-- C. `const user = new User()`
-- D. `const me = Object.create(user)`
-```
-Enter your answer here
-```
+1. Fork and clone this repository
+2. Change into the new directory
+3. Create and checkout a new branch named `assignment`
+4. Follow the directions given in the [Study](https://github.com/SkillsUnion/oop-with-javascript/blob/main/study.md) page.
+5. When you are done, commit, push to your fork and submit a pull request
+6. Make sure to submit your pull request at least an hour before class.
