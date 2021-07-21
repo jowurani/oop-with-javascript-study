@@ -13,9 +13,8 @@ By the end of this, you should be able to:
 
 ## Instructions
 
-1. Fork and clone this repository
-2. Change into the new directory
-3. Create and checkout a new branch named `assignment`
-4. Follow the directions given in the [Study](study.md) page.
-5. When you are done, commit, push to your fork and submit a pull request
-6. Make sure to submit your pull request at least an hour before class.
+1. Open CodeSandbox and import this repository as a new project
+1. Follow the directions given in the [Study](Study.md) page
+1. When you are done, save your changes and submit a link to your CodeSandbox as a comment
+   on the relevant Aula post
+1. Make sure to submit your pull request at least an hour before class
