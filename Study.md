@@ -31,7 +31,7 @@ Which of the following is wrong about defining a class?
 - D. In ES6, a class is defined by the `extend` keyword.
 
 ```
-Enter your answer here
+C
 ```
 
 Which of the following does not create an instance of object?
@@ -40,5 +40,5 @@ Which of the following does not create an instance of object?
 - C. `const user = new User()`
 - D. `const me = Object.create(user)`
 ```
-Enter your answer here
+A and B
 ```
