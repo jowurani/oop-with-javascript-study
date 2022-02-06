@@ -31,7 +31,7 @@ Which of the following is wrong about defining a class?
 - D. In ES6, a class is defined by the `extend` keyword.
 
 ```
-C
+D
 ```
 
 Which of the following does not create an instance of object?
