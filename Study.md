@@ -40,5 +40,5 @@ Which of the following does not create an instance of object?
 - C. `const user = new User()`
 - D. `const me = Object.create(user)`
 ```
-A and B
+B
 ```
